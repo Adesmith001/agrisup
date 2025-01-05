@@ -1032,6 +1032,10 @@ header {
 }
 
 @media screen and (max-width: 768px) {
+  /*Hero */
+  .hero__description{
+    margin-bottom: -2rem;
+  }
   /* Opportunities*/
   .opportunity {
     width: 100%;
